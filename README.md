@@ -5,7 +5,8 @@
 ![Banner](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&h=300&fit=crop&q=80)
 
 ---
-Release
+Baixe o `.apk` na página de [Releases](../../releases) e dê dois cliques.
+
 ## 📱 Demo
 
 Abra o `index.html` no navegador do celular e adicione à tela inicial para usar como app.
